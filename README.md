@@ -1,3 +1,4 @@
+	<<<<<<< HEAD
 # Indian Stocks Clustering Project
 
 This project explores **unsupervised learning techniques** to group Indian companies based on financial and stock market indicators. The goal is to identify natural clusters among companies, which may represent similar business/financial characteristics and provide insights for investors, analysts, or portfolio managers.
@@ -94,4 +95,3 @@ Three methods applied for better cluster separation & visualization:
 
 ## 📖 License
 This project is for educational purposes. Please check dataset source before commercial use.
-
